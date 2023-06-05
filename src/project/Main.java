@@ -11,6 +11,8 @@ package Project;
 public class Main {
 
     public static void main(String[] args) {
+        
+        int v = 1;
         Transact[] baru = new Transact[3];
 
         baru[0] = new Transact("test", "testDesc", "pemasukan", 20000);
